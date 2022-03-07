@@ -1,0 +1,1 @@
+author = "Calc.exe | by Vinograd"
